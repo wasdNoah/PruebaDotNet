@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tarjetas>
+   <sistema>
+      <nombre>Sistema A</nombre>
+      <localizacion>Lugar A</localizacion>
+   </sistema>
+
+   <sistema>
+      <nombre>Sistema B</nombre>
+      <localizacion>Lugar B</localizacion>
+   </sistema>
+
+   <tarjeta>
+      <numero>4235345565776444</numero>
+      <clienteId>233</clienteId>
+   </tarjeta>
+</tarjetas>
